@@ -20,6 +20,9 @@ div.d4{
     height: 200px;
 }
 .flex-container{
+    color: blueviolet;
+}
+.flex-container{
     flex-direction: row;
     display: flex;
     justify-content: space-around;
